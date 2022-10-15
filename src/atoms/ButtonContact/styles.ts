@@ -12,11 +12,12 @@ export const Container = styled.button`
     height: 60px;
     border-radius: 100px;
     margin-top: 50px;
-    transition: all 0.25s ease-out;
-
+    transition: all 0.5s ease-in-out;
     &:hover {
         background-color: #f8fdff;
-        color: blueviolet ;
+        color: blueviolet;
+       
     }
+    
 
 `;
