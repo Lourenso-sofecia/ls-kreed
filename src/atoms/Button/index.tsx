@@ -4,7 +4,7 @@ import * as S from './styles';
 const Button = () => {
   return (
     <S.Container>
-        Enquiry
+        Enquiry 
     </S.Container>
     
   )
